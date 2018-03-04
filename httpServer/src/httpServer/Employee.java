@@ -3,11 +3,11 @@ package httpServer;
 /**
  * Description.<br>
  * 
- *   - Advance Programming Assignment. 2 HttpServer<br>
+ *   - Advance Programming Database. HttpServer<br>
  * 
- * @author olamide lawal - 14038470
+ * @author olamide lawal 
  * @version 1.0
- *   
+ *
  */
 
 public class Employee extends Person{
