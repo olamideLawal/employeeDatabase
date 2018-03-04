@@ -6,7 +6,7 @@
 			<accessrule kind="accessible" pattern="com/sun/net/httpserver/**"/>
 		</accessrules>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/olamidelawal/Downloads/httpServer/gson-2.2.4.jar"/>
-	<classpathentry kind="lib" path="/Users/olamidelawal/Downloads/httpServer/sqlite-jdbc-3.8.11.2.jar"/>
+	<classpathentry kind="lib" path="/Users/olamidelawal/git/employeeDatabase/httpServer/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/olamidelawal/git/employeeDatabase/httpServer/sqlite-jdbc-3.8.11.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
