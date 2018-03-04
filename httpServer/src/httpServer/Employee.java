@@ -10,7 +10,7 @@ package httpServer;
  *   
  */
 
-public class Employee{
+public class Employee extends Person{
 	
 	/**
 	 * Base Class - Employee extends Person
@@ -42,6 +42,7 @@ public class Employee{
 	public Employee(String newFName, String newLName, String newGender, String newNatInsNo, String newDob,
 			String newAddress, String newPostcode, String newSalary, String newStartDate, String newJobTitle, String newEmail) {
 		
+		super(newFName, newLName, newGender, newDob, newAddress, newPostcode);
 		
 		nin = newNatInsNo;
 		Salary = newSalary;
